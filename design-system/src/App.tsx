@@ -6,9 +6,9 @@ function App() {
 
   return (
     <>
-     <Typography text='welcome to coding mafia' tag='h1' />
+     <Typography text='welcome to coding mafia' tag='h1' className='title text-center' style={{color:'blueviolet'}}> <span> nice to meet you</span> </Typography>
      <Typography text='welcome to coding mafia' tag='h2' />
-      <Typography text='welcome to coding mafia' tag='h3' />
+      <Typography text='VOPHSI' tag='h3' />
     </>
   )
 }
